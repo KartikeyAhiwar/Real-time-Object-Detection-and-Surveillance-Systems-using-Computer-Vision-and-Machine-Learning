@@ -1,0 +1,5 @@
+Before running this project, ensure you have the following installed:
+
+Python 3.x
+OpenCV (cv2)
+Numpy
