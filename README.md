@@ -1,4 +1,4 @@
-#🚨 Weapon Detection System Using Python and OpenCV
+<h1>🚨 Weapon Detection System Using Python and OpenCV<h1/>
 <!-- Replace with actual banner image link -->
 
 Real-time Weapon Detection using Computer Vision and Machine Learning algorithms implemented with OpenCV.
