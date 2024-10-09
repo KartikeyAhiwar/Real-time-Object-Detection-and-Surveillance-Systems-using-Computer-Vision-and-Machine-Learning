@@ -1,0 +1,2 @@
+# Real-time-Object-Detection-and-Surveillance-Systems-using-Computer-Vision-and-Machine-Learning
+This project implements a Weapon Detection System using Python and OpenCV. The system is designed to detect weapons in real-time video streams or images, making it a useful tool for enhancing security measures. The system processes input frames from a video source, detects possible weapons, and highlights them for further actions.
